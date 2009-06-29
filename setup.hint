@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libX11_6 libXext6 libXmu6
+requires: libX11_6 libXext6 libXmu6
 sdesc: "X.Org Eyes"
 ldesc: "X.Org Eyes"
