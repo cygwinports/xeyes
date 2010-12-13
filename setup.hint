@@ -1,4 +1,4 @@
 category: X11
-requires: libgcc1 libX11_6 libXext6 libXmu6 libXrender1 libXt6
+requires: libX11_6 libXext6 libXmu6 libXrender1 libXt6
 sdesc: "X.Org Eyes"
 ldesc: "X.Org Eyes"
