@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="xeyes"
+VERSION=1.1.1
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X Eyes demo"
+DESCRIPTION="Xeyes follows all mouse movements within the X display."
